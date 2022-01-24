@@ -7,8 +7,8 @@
 
 
 
-### Footprints
-
+# Footprints
+---
 Period|Activity|Role
 ---|---|---
 2021.03- |고려대학교 세종캠퍼스 전국연합 IT 동아리 "멋쟁이 사자처럼"|9th Member, 10th Staff
