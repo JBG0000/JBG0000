@@ -1,10 +1,5 @@
-### Hi there 👋
-
-
-
-
-
-
+## Bingyeoung-JO
+#### annyeonghaseyo! I am an amateur college student in Korea.
 
 
 ## Footprints
