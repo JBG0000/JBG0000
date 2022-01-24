@@ -1,4 +1,4 @@
-## Bingyeoung-JO
+## Bingyeoung-J
 #### annyeonghaseyo! I am an amateur college student in Korea.
 
 
