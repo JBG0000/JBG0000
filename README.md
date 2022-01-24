@@ -6,11 +6,11 @@
 
 
    Period|Activity|Role
-    ---|---|---|
-   2021.03- |고려대학교 세종캠퍼스 전국연합 IT 동아리 "멋쟁이 사자처럼"|9th Member, 10th Staff|
-   2021.07 - 2021.08|개발자&디자이너 IT비영리단체 "DND"|5th Member, Front-end Developer|
-   2021.09 - 2021.12|프로젝트 완성, 고도화 프로그램 "UPF"|3th Season, Front-end Developer|
-   2022.01 - | 세종 청년 IT창업 공동체 "UDR" |Staff|
+    ---|---|---
+   2021.03- |고려대학교 세종캠퍼스 전국연합 IT 동아리 "멋쟁이 사자처럼"|9th Member, 10th Staff
+   2021.07 - 2021.08|개발자&디자이너 IT비영리단체 "DND"|5th Member, Front-end Developer
+   2021.09 - 2021.12|프로젝트 완성, 고도화 프로그램 "UPF"|3th Season, Front-end Developer
+   2022.01 - | 세종 청년 IT창업 공동체 "UDR" |Staff
 
 <!-- 커밋 스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBG0000&show_icons=true&theme=radical)
