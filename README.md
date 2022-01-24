@@ -15,6 +15,7 @@ Period|Activity|Role
 2021.09 - 2021.12|프로젝트 완성, 고도화 프로그램 "UPF"|3th Season, Front-end Developer
 2022.01 - | 세종 청년 IT창업 공동체 "UDR" |Staff
 
+---
 <!-- 커밋 스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBG0000&show_icons=true&theme=radical)
 
